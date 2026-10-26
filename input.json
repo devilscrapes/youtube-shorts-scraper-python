@@ -1,0 +1,11 @@
+{
+  "channels": [
+    "@GoPro"
+  ],
+  "maxShortsPerChannel": 10,
+  "language": "en",
+  "minSponsorshipScore": 0.0,
+  "proxyConfiguration": {
+    "useApifyProxy": false
+  }
+}
